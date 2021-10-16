@@ -23,10 +23,10 @@ Cuidado com as paredes!
 
 Este jogo conta com algumas implementação em relação ao das aulas: 
 
-- pontuação 
+- Pontuação 
 
-- recordes
+- Recordes
 
-- gráficos para a cobra.
+- Gráficos para a cobra.
 
 ## Boa jogatina :video_game:
